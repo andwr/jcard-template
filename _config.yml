@@ -5,7 +5,8 @@ exclude:
 sass:
   style: compressed
 
-baseurl: /jcard-template
+baseurl: "/jcard-template"
+url: "https://andwr.github.io"
 
 # test server
 port: 8000
